@@ -75,7 +75,7 @@ To get started with the analyses:
 For any questions or collaboration opportunities, feel free to reach out.
 
 - Email: msriharshavardhan2001@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sriharshavardhanm)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sriharshavardhanm)
 
 Thank you for visiting my repository!
 
